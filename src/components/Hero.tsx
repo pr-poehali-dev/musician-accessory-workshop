@@ -35,7 +35,7 @@ const Hero = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-amber-900">2</div>
-                <div className="text-amber-700">Лет опыта</div>
+                <div className="text-amber-700">Года опыта</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-amber-900">100%</div>
