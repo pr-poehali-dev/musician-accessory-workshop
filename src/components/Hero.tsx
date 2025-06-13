@@ -30,7 +30,7 @@ const Hero = () => {
 
             <div className="flex items-center gap-8 pt-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-amber-900">500+</div>
+                <div className="text-3xl font-bold text-amber-900">20+</div>
                 <div className="text-amber-700">Довольных музыкантов</div>
               </div>
               <div className="text-center">
